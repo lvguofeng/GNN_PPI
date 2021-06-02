@@ -108,6 +108,9 @@ STRING(we use Homo sapiens subset):
 SHS27k and SHS148k: 
 - http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip
 
+This repositorie uses the processed dataset download path:
+- https://pan.baidu.com/s/1FU-Ij3LxyP9dOHZxO3Aclw (Extraction code: tibn)
+
 ### Testing
 
 Testing codes in gnn_test.py and gnn_test_bigger.py, and the run script in run_test.py and run_test_bigger.py.
