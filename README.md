@@ -74,6 +74,7 @@ The data processing codes in gnn_data.py (Class GNN_DATA), including:
 - protein vectorize (**def** get_feature_origin)
 - generate pyg data (**def** generate_data)
 - Data partition (**def** split_dataset)
+    - For the first time, you need to set the parameter random_new=True to generate a new data set division json file. (Otherwise, an error will be reported, No such file or directory: "./xxxx/string.bfs.fold1.json")
 
 ### Training
 
